@@ -3,9 +3,10 @@ Trabalho da disciplina de Aplicações Informáticas B no ano letivo 2022/2023 d
 
 ## Instruções para ver a animação
 
+### Unzip Projeto.zip
+
 Faça unzip do ficheiro Projeto.zip
 
-### Unzip Projeto.zip
 ```console
 $ unzip Projeto.zip
 ```
