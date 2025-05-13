@@ -1,7 +1,7 @@
 # AIB
 Trabalho da disciplina de Aplicações Informáticas B no ano letivo 2022/2023 da Escola Secundária de Vila Verde
 
-## Innstroções para ver a animação
+## Instruções para ver a animação
 
 Faça unzip do ficheiro Projeto.zip
 
