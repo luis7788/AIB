@@ -1,6 +1,7 @@
 # AIB
 Trabalho da disciplina de Aplicações Informáticas B no ano letivo 2022/2023 da Escola Secundária de Vila Verde.
-Simulação do jogo dos anos "80" *PacMan*.
+
+Simulação do jogo de 1980, **PacMan**.
 
 <p align="center">
   <img src="TelaInicial.png" alt="Descrição da imagem" width="300">
@@ -23,3 +24,9 @@ A animação pode ser vista abrindo o ficheiro html num navegador ou executando 
 ```console
 $ xdg-open index.html 2>/dev/null
 ```
+
+### Informação adicional
+
+Para começar clique em **"Start"**.
+
+Após o término da animação, é possível recomeçar clicando em **"Play Again"**.
