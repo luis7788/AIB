@@ -1,5 +1,6 @@
 # AIB
-Trabalho da disciplina de Aplicações Informáticas B no ano letivo 2022/2023 da Escola Secundária de Vila Verde
+Trabalho da disciplina de Aplicações Informáticas B no ano letivo 2022/2023 da Escola Secundária de Vila Verde.
+Simulação do jogo dos anos "80" *PacMan*.
 
 <p align="center">
   <img src="TelaInicial.png" alt="Descrição da imagem" width="300">
