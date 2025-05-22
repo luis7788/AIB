@@ -31,6 +31,9 @@ Para começar clique em **"Start"**.
 
 Após o término da animação, é possível recomeçar clicando em **"Play Again"**.
 
+<p align="center">
+  <img src="TelaPlayAgain.png" alt="Descrição da imagem" width="300">
+</p>
 
 # AIB (English)
 
@@ -65,3 +68,7 @@ $ xdg-open index.html 2>/dev/null
 To start the animation, click **"Start"**.
 
 After the animation ends, you can restart it by clicking **"Play Again"**.
+
+<p align="center">
+  <img src="TelaPlayAgain.png" alt="Descrição da imagem" width="300">
+</p>
