@@ -35,6 +35,8 @@ Após o término da animação, é possível recomeçar clicando em **"Play Agai
   <img src="TelaPlayAgain.png" alt="Descrição da imagem" width="300">
 </p>
 
+---
+
 # 🕹️ AIB (English)
 
 Project for the subject **"Aplicações Informáticas B"** during the **2022/2023** academic year at **Escola Secundária de Vila Verde**.
